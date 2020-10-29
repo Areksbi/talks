@@ -2,18 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="307084d8-1ec9-4a3d-82a0-fa4ab33c24ad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/es2020/basic-module.mjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es2020/big-int.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es2020/dynamic-imports-module.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es2020/dynamic-imports.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es2020/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es2020/global-this.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es2020/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es2020/nullish.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es2020/optional-chaining.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es2020/promise-all-settled.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es2021/.babelrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es2021/browserslist" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/es2021/favicon.ico" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/es2021/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/es2021/intl-date-style-and-time-style.js" afterDir="false" />
@@ -22,7 +10,8 @@
       <change afterPath="$PROJECT_DIR$/es2021/numeric-separators.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/es2021/promise-any.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/es2021/string-replace-all.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/es2020/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/es2020/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,18 +51,38 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603908304879</updated>
-      <workItem from="1603908307121" duration="8781000" />
+      <workItem from="1603908307121" duration="9563000" />
     </task>
+    <task id="LOCAL-00001" summary="Add es2020 AND .idea AND README.md">
+      <created>1603999756356</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603999756358</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add es2020 AND .idea AND README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add es2020 AND .idea AND README.md" />
   </component>
   <component name="WindowStateProjectService">
     <state x="669" y="1380" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603996847834">
       <screen x="116" y="1103" width="1680" height="937" />
     </state>
     <state x="669" y="1380" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1920.1057/116.1103.1680.937@116.1103.1680.937" timestamp="1603996847834" />
+    <state x="169" y="1151" key="CommitChangelistDialog2" timestamp="1603999755739">
+      <screen x="116" y="1103" width="1680" height="937" />
+    </state>
+    <state x="169" y="1151" key="CommitChangelistDialog2/0.23.1920.1057/116.1103.1680.937@116.1103.1680.937" timestamp="1603999755739" />
+    <state x="192" y="1315" key="Vcs.Push.Dialog.v2" timestamp="1603999760404">
+      <screen x="116" y="1103" width="1680" height="937" />
+    </state>
+    <state x="192" y="1315" key="Vcs.Push.Dialog.v2/0.23.1920.1057/116.1103.1680.937@116.1103.1680.937" timestamp="1603999760404" />
     <state x="216" y="1203" width="748" height="737" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1603999185471">
       <screen x="116" y="1103" width="1680" height="937" />
     </state>
