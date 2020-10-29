@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="307084d8-1ec9-4a3d-82a0-fa4ab33c24ad" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/es2020/basic-module.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es2020/big-int.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es2020/dynamic-imports-module.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es2020/dynamic-imports.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es2020/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es2020/global-this.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es2020/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es2020/nullish.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es2020/optional-chaining.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es2020/promise-all-settled.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es2021/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es2021/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es2021/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es2021/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es2021/intl-date-style-and-time-style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es2021/intl-list-format.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es2021/logical-operators-and-assignment-expressions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es2021/numeric-separators.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es2021/promise-any.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es2021/string-replace-all.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jW85H1ZHw1X8pcKIoyEcms1VJu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/es2021" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/es2021" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="307084d8-1ec9-4a3d-82a0-fa4ab33c24ad" name="Default Changelist" comment="" />
+      <created>1603908304879</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603908304879</updated>
+      <workItem from="1603908307121" duration="8781000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="669" y="1380" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603996847834">
+      <screen x="116" y="1103" width="1680" height="937" />
+    </state>
+    <state x="669" y="1380" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1920.1057/116.1103.1680.937@116.1103.1680.937" timestamp="1603996847834" />
+    <state x="216" y="1203" width="748" height="737" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1603999185471">
+      <screen x="116" y="1103" width="1680" height="937" />
+    </state>
+    <state x="216" y="1203" width="748" height="737" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1920.1057/116.1103.1680.937@116.1103.1680.937" timestamp="1603999185471" />
+  </component>
+</project>

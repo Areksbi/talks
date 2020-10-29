@@ -1,0 +1,25 @@
+<!doctype>
+<html lang="en">
+<head>
+  <title>ES2020</title>
+  <link rel="icon" href="./favicon.ico">
+</head>
+<body>
+  <button id="btn">Click me for dynamic import!</button>
+
+  <script src="optional-chaining.js"></script>
+  <script src="global-this.js"></script>
+  <script src="nullish.js"></script>
+  <script src="big-int.js"></script>
+  <script src="promise-all-settled.js"></script>
+  <!-- region "< ES2020" -->
+  <script src="basic-module.mjs" type="module"></script>
+  <script type="module">
+    import { printMySurname } from './basic-module.mjs';
+    printMySurname('Baran')
+    // More info: https://jakearchibald.com/2017/es-modules-in-browsers/
+  </script>
+  <!-- endregion "< ES2020" -->
+  <script src="dynamic-imports.js"></script>
+</body>
+</html>
