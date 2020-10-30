@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="307084d8-1ec9-4a3d-82a0-fa4ab33c24ad" name="Default Changelist" comment="Add es2021">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/es2020/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/es2020/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/es2021/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/es2021/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/es2020/promise-all-settled.js" beforeDir="false" afterPath="$PROJECT_DIR$/es2020/promise-all-settled.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +43,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603908304879</updated>
-      <workItem from="1603908307121" duration="9604000" />
+      <workItem from="1603908307121" duration="15793000" />
     </task>
     <task id="LOCAL-00001" summary="Add es2020 AND .idea AND README.md">
       <created>1603999756356</created>
@@ -60,7 +59,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604000557344</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Clean code">
+      <created>1604000584106</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604000584106</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -69,21 +75,26 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add es2020 AND .idea AND README.md" />
     <MESSAGE value="Add es2021" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add es2021" />
+    <MESSAGE value="Clean code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Clean code" />
   </component>
   <component name="WindowStateProjectService">
     <state x="669" y="1380" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603996847834">
       <screen x="116" y="1103" width="1680" height="937" />
     </state>
     <state x="669" y="1380" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1920.1057/116.1103.1680.937@116.1103.1680.937" timestamp="1603996847834" />
-    <state x="169" y="1151" key="CommitChangelistDialog2" timestamp="1604000564769">
+    <state x="169" y="1151" key="CommitChangelistDialog2" timestamp="1604081085863">
       <screen x="116" y="1103" width="1680" height="937" />
     </state>
-    <state x="169" y="1151" key="CommitChangelistDialog2/0.23.1920.1057/116.1103.1680.937@116.1103.1680.937" timestamp="1604000564769" />
-    <state x="192" y="1315" key="Vcs.Push.Dialog.v2" timestamp="1603999760404">
+    <state x="169" y="1151" key="CommitChangelistDialog2/0.23.1920.1057/116.1103.1680.937@116.1103.1680.937" timestamp="1604081085863" />
+    <state x="359" y="1285" key="RollbackChangesDialog" timestamp="1604081084117">
       <screen x="116" y="1103" width="1680" height="937" />
     </state>
-    <state x="192" y="1315" key="Vcs.Push.Dialog.v2/0.23.1920.1057/116.1103.1680.937@116.1103.1680.937" timestamp="1603999760404" />
+    <state x="359" y="1285" key="RollbackChangesDialog/0.23.1920.1057/116.1103.1680.937@116.1103.1680.937" timestamp="1604081084117" />
+    <state x="192" y="1315" key="Vcs.Push.Dialog.v2" timestamp="1604000595816">
+      <screen x="116" y="1103" width="1680" height="937" />
+    </state>
+    <state x="192" y="1315" key="Vcs.Push.Dialog.v2/0.23.1920.1057/116.1103.1680.937@116.1103.1680.937" timestamp="1604000595816" />
     <state x="216" y="1203" width="748" height="737" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1603999185471">
       <screen x="116" y="1103" width="1680" height="937" />
     </state>

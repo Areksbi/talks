@@ -1,4 +1,4 @@
-const prom1 = new Promise.resolve(5)
+const prom1 = Promise.resolve(5)
 const prom2 = new Promise((resolve, reject) => setTimeout(reject, 1500, 'Something went wrong'))
 
 const promises = [prom1, prom2]
